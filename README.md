@@ -1,2 +1,2 @@
-# Optimisation of the non-centered minimum curvilinear embedding by minimising the logarithmic loss with respect to the E-PSO model
+# Optimisation of the non-centered minimum curvilinear embedding by logarithmic loss minimisation
 
