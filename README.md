@@ -1,7 +1,7 @@
 # Optimisation of ncMCE by logarithmic loss minimisation
 
 ## Reference
-B. Kovács and G. Palla, *Optimisation of the coalescent hyperbolic embedding of complex networks*, Scientific Reports
+B. Kovács and G. Palla, *Optimisation of the coalescent hyperbolic embedding of complex networks*, Scientific Reports, 2020
 
 ## Usage
 ### Input files
