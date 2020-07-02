@@ -1,2 +1,2 @@
-# Optimisation of the non-centered minimum curvilinear embedding by logarithmic loss minimisation
+# Optimisation of ncMCE by logarithmic loss minimisation
 
