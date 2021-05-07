@@ -8,4 +8,4 @@ B. Kovács and G. Palla, *Optimisation of the coalescent hyperbolic embedding of
 The only input file is a text file containing the edge list of the network to be embedded. 
 
 ### Output files
-Node coordinates on the native disk representation of the hyperbolic plane, edge list with link weights reflecting the hyperbolic proximity of the connected nodes, layout of the embedded network on the native disk.
+Node coordinates on the native disk representation of the hyperbolic plane, edge list with link weights that reflect the hyperbolic proximity of the connected nodes, layout of the embedded network on the native disk.
